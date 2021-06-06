@@ -1,2 +1,5 @@
 updater.sh
 latest_version
+src/
+pkg/
+*.tar.*
